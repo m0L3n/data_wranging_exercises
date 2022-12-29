@@ -1,4 +1,4 @@
-# data_wranging_exercises
+# data_wrangling_exercises
 This excercises relates to the Book "Practical Python Data Wrangling"
 Projekt Outline:
  question: How many Citi Bike rides each day are taken by

@@ -1,6 +1,9 @@
 from lxml import etree
 import csv
 
+# the data used here is an instance of
+# http://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+
 source_file= "BBC News - Science & Environment XML Feed"
 xml_file = open("data\\"+source_file+".xml","rb")
 

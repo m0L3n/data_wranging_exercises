@@ -1,6 +1,10 @@
 import json
 import csv
 
+# An example of reading data from a .json file with Python, by using the built-in "json" library.
+# The data used here is an instance of :
+# https://api.stlouisfed.org/fred/series/observations?series_id=U6RATE& \ file_type=json&api_key=YOUR_API_KEY_HERE
+
 filename = "U6_FRED_data"
 source_file = open("data\\"+filename+".json","r")
 
